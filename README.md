@@ -1,3 +1,3 @@
-# Purple Label Financial Theme
+# Purelabel
 
-Initial commit.
+This is the README file for the Purelabel Shopify theme.
