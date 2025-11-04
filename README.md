@@ -1,2 +1,3 @@
-# purelabel
-purelabel theme
+# Purple Label Financial Theme
+
+Initial commit.
